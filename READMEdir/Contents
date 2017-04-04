@@ -1,12 +1,4 @@
-Vim		Vi IMproved.  A clone of the UNIX text editor Vi.  Very useful
-		for editing programs and other plain ASCII text.  Full Vi
-		compatibility and includes all Ex commands.  Extra features
-		above Vi: Multilevel undo, multiple windows, syntax
-		highlighting, command line history, folding, improved command
-		line editing, command typeahead display, command to display
-		yank buffers, possibility to edit binary files, file name
-		stack, support for Manx QuickFix and other compiler's error
-		messages, shows current file name in window title, on-line
+Vim	ULisses
 		help, rectangular cut/paste, etc., etc., etc...
 
 		Version 8.0.  Also runs under UNIX, MS-Windows, Mac, etc.
